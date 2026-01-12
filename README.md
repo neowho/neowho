@@ -4,5 +4,3 @@
 - :orange_book: 技术博客：https://neowho.blog.csdn.net
 
 - :hammer:  个人网站：http://www.neowho.cc
-
-- :meat_on_bone: 极客官网：http://www.jkvipedu.com
